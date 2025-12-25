@@ -1,16 +1,84 @@
-# React + Vite
+# UDGAM 26 - Edition XI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the official frontend repository for **UDGAM 26**, built using **React**, **Vite**, and **Tailwind CSS**. The application features rich animations powered by **GSAP** and **Framer Motion**, creating an interactive and responsive landing page experience.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Framework:** [React](https://react.dev/) (v19)
+- **Build Tool:** [Vite](https://vitejs.dev/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/) & [PostCSS](https://postcss.org/)
+- **Animations:**
+  - [GSAP](https://gsap.com/) (GreenSock Animation Platform) & ScrollTrigger
+  - [Framer Motion](https://www.framer.com/motion/)
+- **Routing:** [React Router DOM](https://reactrouter.com/)
+- **Linting:** ESLint
 
-## React Compiler
+## 🛠️ Installation & Setup
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Follow these steps to set up the project locally on your machine.
 
-## Expanding the ESLint configuration
+### Prerequisites
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Ensure you have **Node.js** (v18 or higher recommended) and **npm** installed.
+
+### 1. Clone the Repository
+
+```bash
+git clone <your-repo-url>
+cd udgam26
+
+# UDGAM 26 - Edition XI
+
+
+
+This is the official frontend repository for **UDGAM 26**, built using **React**, **Vite**, and **Tailwind CSS**. The application features rich animations powered by **GSAP** and **Framer Motion**, creating an interactive and responsive landing page experience.
+
+
+
+## 🚀 Tech Stack
+
+
+
+- **Framework:** [React](https://react.dev/) (v19)
+
+- **Build Tool:** [Vite](https://vitejs.dev/)
+
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/) & [PostCSS](https://postcss.org/)
+
+- **Animations:**
+
+  - [GSAP](https://gsap.com/) (GreenSock Animation Platform) & ScrollTrigger
+
+  - [Framer Motion](https://www.framer.com/motion/)
+
+- **Routing:** [React Router DOM](https://reactrouter.com/)
+
+- **Linting:** ESLint
+
+
+
+## 🛠️ Installation & Setup
+
+
+
+Follow these steps to set up the project locally on your machine.
+
+
+
+### Prerequisites
+
+
+
+Ensure you have **Node.js** (v18 or higher recommended) and **npm** installed.
+
+
+
+### 1. Clone the Repository
+
+
+
+```bash
+
+git clone <your-repo-url>
+
+cd udgam26
