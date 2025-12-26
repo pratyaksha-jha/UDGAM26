@@ -3,6 +3,9 @@ import Home from "../pages/Home";
 import Navbar from "./assets/Components/Navbar";
 import Footer from "./assets/Components/Footer";
 import Schedule from "../pages/Schedule" 
+import Events from "../pages/Events";
+import OurTeam from "../pages/OurTeam";
+import Sponsors from "../pages/Sponsors";
 
 function App() {
   return (
@@ -16,9 +19,9 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/schedule" element={<Schedule />} />
-        {/* <Route path="/events" element={<Events />} />
+        <Route path="/events" element={<Events />} />
         <Route path="/sponsors" element={<Sponsors />} />
-        <Route path="/team" element={<OurTeam />} /> */}
+        <Route path="/team" element={<OurTeam />} />
         
       </Routes>
       <Footer />
