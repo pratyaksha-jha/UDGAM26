@@ -205,7 +205,7 @@ function detachAll() {
   _listeners = [];
 }
 
-export async function initSchedule() {
+export async function InitSchedule() {
   // start loading Leaflet but don't wait for it — attach UI handlers immediately
   ensureLeaflet().then(() => { try { setupMap(); } catch (e) {} });
 
@@ -299,7 +299,7 @@ export async function initSchedule() {
   // Leaflet will be initialised asynchronously when its script loads
 }
 
-export function cleanupSchedule() {
+export function CleanupSchedule() {
   detachAll();
   try { if (_map) { _map.remove(); _map = null; } } catch (e) {}
 }

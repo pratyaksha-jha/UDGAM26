@@ -2,6 +2,7 @@ import { Routes, Route } from "react-router-dom";
 import Home from "../pages/Home";
 import Navbar from "./assets/Components/Navbar";
 import Footer from "./assets/Components/Footer";
+import Schedule from "../pages/Schedule" 
 
 function App() {
   return (
