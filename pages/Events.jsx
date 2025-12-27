@@ -185,35 +185,49 @@ export default function Events() {
             </p>
           </div>
           <div id="di3">
-            <div id="di31">
-              Register NOW
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="64"
-                height="64"
-                viewBox="0 0 64 64"
-                fill="none"
-              >
-                <path
-                  d="M19.7029 43.3459L42.6895 20.3594"
-                  stroke="black"
-                  stroke-width="6"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                />
-                <path
-                  d="M43.346 38.0917V19.7024H24.9567"
-                  stroke="black"
-                  stroke-width="6"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                />
-              </svg>
-            </div>
-            <div id="di32">
-              <p>Know</p>
-              <p>more</p>
-            </div>
+            <a
+              href="https://unstop.com/competitions/disrupt26-the-ultimate-startup-bootcamp-iit-guwahati-1545893"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ textDecoration: "none", color: "inherit" }}
+            >
+              <div id="di31">
+                Register NOW
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="64"
+                  height="64"
+                  viewBox="0 0 64 64"
+                  fill="none"
+                >
+                  <path
+                    d="M19.7029 43.3459L42.6895 20.3594"
+                    stroke="black"
+                    stroke-width="6"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                  <path
+                    d="M43.346 38.0917V19.7024H24.9567"
+                    stroke="black"
+                    stroke-width="6"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+              </div>
+            </a>
+            <a
+              href="https://www.ecelliitg.in/Disrupt/"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ textDecoration: "none", color: "inherit" }}
+            >
+              <div id="di32">
+                <p>Know</p>
+                <p>more</p>
+              </div>
+            </a>
           </div>
           <svg
             id="di4"
@@ -252,10 +266,17 @@ export default function Events() {
               alt=""
             />
           </div>
-          <div id="in3">
-            <div id="in31">Yes, I have my Pass</div>
-            <div id="in32">No, I need a Pass</div>
-          </div>
+          <a
+            href="https://road-to-internfair.notion.site/Road-To-Internfair-2026-2b846bf64908816d91b3ca935c70eab5"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ textDecoration: "none", color: "inherit" }}
+          >
+            <div id="in3">
+              <div id="in31">Yes, I have my Pass</div>
+              <div id="in32">No, I need a Pass</div>
+            </div>
+          </a>
           <img src="../src/assets/events/assets/hired.svg" id="in4" alt="" />
           <img
             src="../src/assets/events/assets/interntie.svg"
@@ -314,31 +335,38 @@ export default function Events() {
             />
           </div>
           <div id="ex4">
-            <div id="ex41">
-              Register NOW
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="64"
-                height="64"
-                viewBox="0 0 64 64"
-                fill="none"
-              >
-                <path
-                  d="M19.7029 43.3459L42.6895 20.3594"
-                  stroke="#EF9539"
-                  stroke-width="6"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                />
-                <path
-                  d="M43.346 38.0917V19.7024H24.9567"
-                  stroke="#EF9539"
-                  stroke-width="6"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                />
-              </svg>
-            </div>
+            <a
+              href="https://unstop.com/competitions/startup-expo-udgam-2026-iit-guwahati-1581666"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ textDecoration: "none", color: "inherit" }}
+            >
+              <div id="ex41">
+                Register NOW
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="64"
+                  height="64"
+                  viewBox="0 0 64 64"
+                  fill="none"
+                >
+                  <path
+                    d="M19.7029 43.3459L42.6895 20.3594"
+                    stroke="#EF9539"
+                    stroke-width="6"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                  <path
+                    d="M43.346 38.0917V19.7024H24.9567"
+                    stroke="#EF9539"
+                    stroke-width="6"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+              </div>
+            </a>
           </div>
         </section>
 
@@ -363,31 +391,38 @@ export default function Events() {
             </p>
           </div>
           <div id="pmx3">
-            <div id="pmx31">
-              Register NOW
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="64"
-                height="64"
-                viewBox="0 0 64 64"
-                fill="none"
-              >
-                <path
-                  d="M19.7029 43.3459L42.6895 20.3594"
-                  stroke="#EE3B3F"
-                  stroke-width="6"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                />
-                <path
-                  d="M43.346 38.0917V19.7024H24.9567"
-                  stroke="#EE3B3F"
-                  stroke-width="6"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                />
-              </svg>
-            </div>
+            <a
+              href="https://unstop.com/competitions/pmx-2026-the-product-management-expedition-udgam-2026-iit-guwahati-1602663"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ textDecoration: "none", color: "inherit" }}
+            >
+              <div id="pmx31">
+                Register NOW
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="64"
+                  height="64"
+                  viewBox="0 0 64 64"
+                  fill="none"
+                >
+                  <path
+                    d="M19.7029 43.3459L42.6895 20.3594"
+                    stroke="#EE3B3F"
+                    stroke-width="6"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                  <path
+                    d="M43.346 38.0917V19.7024H24.9567"
+                    stroke="#EE3B3F"
+                    stroke-width="6"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+              </div>
+            </a>
           </div>
           <img src="../src/assets/events/assets/pmx2.png" id="pmx4" alt="" />
         </section>
@@ -412,31 +447,38 @@ export default function Events() {
             </p>
           </div>
           <div id="spk3">
-            <div id="spk31">
-              Register NOW
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="64"
-                height="64"
-                viewBox="0 0 64 64"
-                fill="none"
-              >
-                <path
-                  d="M19.7029 43.3459L42.6895 20.3594"
-                  stroke="#FFF9F0"
-                  stroke-width="6"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                />
-                <path
-                  d="M43.346 38.0917V19.7024H24.9567"
-                  stroke="#FFF9F0"
-                  stroke-width="6"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                />
-              </svg>
-            </div>
+            <a
+              href="https://www.youtube.com/watch?v=xvFZjo5PgG0"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ textDecoration: "none", color: "inherit" }}
+            >
+              <div id="spk31">
+                Register NOW
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="64"
+                  height="64"
+                  viewBox="0 0 64 64"
+                  fill="none"
+                >
+                  <path
+                    d="M19.7029 43.3459L42.6895 20.3594"
+                    stroke="#FFF9F0"
+                    stroke-width="6"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                  <path
+                    d="M43.346 38.0917V19.7024H24.9567"
+                    stroke="#FFF9F0"
+                    stroke-width="6"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+              </div>
+            </a>
           </div>
           <img src="../src/assets/events/assets/spkimg1.svg" id="spk4" alt="" />
           <img src="../src/assets/events/assets/spkimg2.svg" id="spk5" alt="" />
