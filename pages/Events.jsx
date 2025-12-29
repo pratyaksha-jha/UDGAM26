@@ -160,10 +160,7 @@ export default function Events() {
           <h1>DISRUPT</h1>
           <h2>Pitch Ideas, Win Investments</h2>
           <h3>
-            Disrupt Is North-East India's Largest Pitching
-            Battle,OfferingStartups The Opportunity To Pitch Ideas Investors,
-            VCsand Angels.Finalist Receive Mentorship ,Tools , Prizes With
-            Winner Securing Investments To Scale Their Ventures
+            Disrupt is North-East India’s largest startup pitching arena, built around a 4-month-long intensive bootcamp where selected startups receive mentorship, resources, and guided support to refine their ideas. The journey culminates in a grand pitching finale at UDGAM, where founders present to leading investors, VCs, and angel networks. Finalists gain visibility, tools, and opportunities to secure investments and scale their ventures.
           </h3>
           <svg
             id="di1"
@@ -250,10 +247,7 @@ export default function Events() {
           <h1>INTERNFAIR</h1>
           <h2>Unlock Industry Partnership</h2>
           <h3>
-            Internfair Is A Platform Exclusively For IIT Guwahati Students,
-            Offfering Internships In Diverse Profiles Like Software Development,
-            Analytics, And Product Management. It Helps Students Gain Industry
-            Exposure And Prepares Them For Upcoming Placements And Internships
+            InternFair is UDGAM’s platform that connects students with leading companies, unlocking valuable internship and networking opportunities across diverse domains. Alongside the main recruitment fair, the Road to InternFair program equips participants with resources, guidance, and project-building support to strengthen their CVs and develop industry-ready skills. It’s the perfect launchpad for students exploring future career paths.
           </h3>
           <div id="in2">
             <p>Saturday</p>
@@ -319,10 +313,7 @@ export default function Events() {
               alt=""
             />
             <p>
-              Startup Expo Provides A Stage For Startups To Showcase Their
-              Innovations, Gather Feedback And Connect With Investors. It
-              Fosters Entrepreneuurship By Promoting Collaboration , Idea
-              Exchange And Reserach Opportunities In Vibrant Ecosystem.
+              Start-Up Expo is UDGAM’s premier platform where startups showcase their innovations and connect with investors, VCs, incubators, and government leaders from across India. Designed for visibility and growth, the Expo helps founders network, gain feedback, and discover opportunities to elevate their ventures to the next level.
             </p>
           </div>
           <div id="ex2">
@@ -377,10 +368,7 @@ export default function Events() {
             <h1>PMx</h1>
             <h2>PRODUCT MANAGEMENT EXPEDITION</h2>
             <h3>
-              Startup Expo Provides A Stage For Startups To Showcase Their
-              Innovations, Gather Feedback And Connect With Investors. It
-              Fosters Entrepreneurship By Promoting Collaboration , Idea
-              Exchange And Research Opportunities In Vibrant Ecosystem.
+              PMx is India’s largest product management expedition, bringing together thousands of problem-solvers, designers, and innovators to tackle real-world product case studies. Participants dive into live industry problems, analyze user needs, design solutions, and showcase their product-thinking skills. Perfect for anyone who loves solving complex challenges, PMx offers a high-impact platform to learn, compete, and shine in the world of product management.
             </h3>
           </div>
           <img src="../src/assets/events/assets/pmx1.svg" id="pmx1" alt="" />
@@ -434,10 +422,7 @@ export default function Events() {
             <h1>SPARKLE</h1>
             <h2>The Student Startup Bootcamp</h2>
             <h3>
-              Startup Expo Provides A Stage For Startups To Showcase Their
-              Innovations, Gather Feedback And Connect With Investors. It
-              Fosters Entrepreneuurship By Promoting Collaboration , Idea
-              Exchange And Reserach Opportunities In Vibrant Ecosystem.
+              Sparkle is UDGAM’s dedicated platform for school students (Classes 6–12) to explore entrepreneurship, creativity, and problem-solving. It encourages young innovators to think boldly, develop ideas, and present solutions through guided events, activities, and competitions. Designed as a launchpad for budding leaders, Sparkle helps students transform their imagination into real, impactful concepts.
             </h3>
           </div>
           <div id="spk2">

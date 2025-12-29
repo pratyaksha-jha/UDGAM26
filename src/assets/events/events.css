@@ -469,6 +469,15 @@ h1, h2, h3, p{
   position: relative;
   margin: auto;
   overflow: hidden;
+  min-height: 370px;
+}
+#exbbg{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  object-fit: cover;
 }
 #exor{
   position: absolute;
@@ -477,12 +486,13 @@ h1, h2, h3, p{
 }
 #exwr{
   position: absolute;
-  top: 10px;
-  left: 200px;
+  scale: 0.7;
+  top: 0px;
+  left: 160px;
 }
 #exbg p{
   position: absolute;
-  top: 220px;
+  bottom: 0px;
   left: 200px;
   color: #0A0024;
   text-align: left;
@@ -850,11 +860,12 @@ footer{
     width: 40%;
   }
   #exbg p{
-    top: 140px;
+    /* top: 140px; */
+    bottom: 0px;
     width: 60%;
   }
   #ex2{
-    transform: translate(20%,-35%);
+    transform: translate(20%,-55%);
   }
   #ex4{
     transform: translate(-50%,60%);
@@ -892,7 +903,7 @@ footer{
         font-size: 2rem;
       }
       #exbg{
-        height: 600px;
+        height: 720px;
       }
       #exbbg{
         height: 100%;
@@ -902,12 +913,14 @@ footer{
         left: 140px;
       }
       #exor{
+        top: 0px;
         max-width: 20%;
         height: 100%;
       }
       #exwr{
         top: 15px;
-        left: 140px;
+        left: 115px;
+        scale: 0.85;
       }
       footer{
         flex-direction: column;
